@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resources/FabPartition.png</file>
+        <file>Resources/ChangeName.png</file>
+        <file>Resources/DeletePartition.png</file>
+        <file>Resources/NewFormat.png</file>
+        <file>Resources/NewPartition.png</file>
+        <file>Resources/Resize.png</file>
+        <file>Resources/Help.png</file>
+        <file>Resources/btnCrear.png</file>
+        <file>Resources/btnNewFormat.png</file>
+        <file>Resources/btnChangeName.png</file>
+        <file>Resources/btnDeletePartition.png</file>
+        <file>Resources/Menus.png</file>
+        <file>Resources/MenusExplorar.png</file>
+        <file>Resources/MenusDerecho.png</file>
+        <file>Resources/MenusDiscospng.png</file>
+        <file>Resources/Logo2.png</file>
+        <file>Resources/Eliminar.png</file>
+        <file>Resources/extraer.png</file>
+        <file>Resources/Insertar.png</file>
+        <file>Resources/navegar.png</file>
+        <file>Resources/btnResize.png</file>
+        <file>Resources/Tablas.png</file>
+        <file>Resources/Files.png</file>
+        <file>Resources/createDir.png</file>
+    </qresource>
+</RCC>
